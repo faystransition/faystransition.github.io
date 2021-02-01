@@ -9,7 +9,7 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  Personal website, blogs and more. Be a better me!<br />
+  Personal website, blogs and more. Transition to a better me!<br />
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.21.0">Latest release v4.21.0</a></small>
 
 feature_row:
