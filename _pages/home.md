@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /home/titlefig.jpg
+  overlay_image: /home/titlefig2.jpg
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
@@ -16,7 +16,7 @@ feature_row:
   - image_path: /home/edu.jpg
     alt: "Education"   # "customizable"
     title: "Education"
-    excerpt: "Education backgrounds."
+    excerpt: "Education background and self-learning."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
