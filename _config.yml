@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fays_transition"
+title                    : "Fay's transition"
 title_separator          : "-"
-name                     : &name "Fays_transition"
+name                     : &name "Fay's transition"
 description              : &description "Physics grad at UMN."
 url                      : https://faystransition.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" "http://localhost:4000"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
