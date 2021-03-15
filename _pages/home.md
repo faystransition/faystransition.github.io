@@ -10,35 +10,32 @@ header:
 #      url: "/docs/quick-start-guide/"
 excerpt: >
   Personal website, blogs and more. Transition to a better me!<br />
-#  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.21.0">Latest release v4.21.0</a></small>
+#  <small><a href="https://github.com/faystransition">Latest release v1.1.0</a></small>
 
 feature_row:
   - image_path: /home/edu.jpg
     alt: "Education"   # "customizable"
     title: "Education"
     excerpt: "Education background and self-learning."
-    url: "/docs/configuration/"
+    url: "/education/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    
+
   - image_path: /home/research.jpg
     alt: "Research"   # "fully responsive"
     title: "Research"
     excerpt: "Theoretical and experimental research."
-    url: "/docs/layouts/"
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    
+
   - image_path: /home/projects.jpg
     alt: "Blogs"    # "100% free"
     title: "Blogs"
     excerpt: "Data science, machine learning projects."
-    url: "/docs/license/"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
-
-
-
