@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _learningnotes
   - scope:
       path: ""
-      type: teaching
+      type: learningnotes
     values:
       layout: single
       author_profile: true

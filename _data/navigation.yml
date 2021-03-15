@@ -11,12 +11,9 @@ main:
 
   - title: "Blog Posts"
     url: /posts/
-    
+
   - title: "Learning Notes"
-    url: /learningnotes/    
-    
+    url: /learningnotes/
+
   - title: "Photo Gallery"
-    url: /photogallery/       
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /photogallery/
