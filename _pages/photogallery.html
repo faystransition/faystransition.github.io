@@ -1,13 +1,11 @@
 ---
-layout: archive
+layout: splash
 title: "Photo gallery"
 permalink: /photogallery/
-author_profile: false
+
+feature_row:
+  - image_path: /home/edu.jpg
+    alt: "Education"
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include feature_row %}
