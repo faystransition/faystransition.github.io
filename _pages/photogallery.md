@@ -10,13 +10,13 @@ excerpt: "Photo gallery."
 
 
 gallery:
-  - image_path: /images/gallery/IMG_4489.jpg
+  - image_path: /gallery/IMG_4489.jpg
     alt: "Ice castle"
 
   - image_path: /gallery/IMG_4476.jpg
     alt: "Ice castle"
 
-  - image_path: /images/gallery/IMG_4479.jpg
+  - image_path: /gallery/IMG_4479.jpg
     alt: "Ice castle"
 ---
 
@@ -24,3 +24,14 @@ gallery:
 
 
 {% include gallery %}
+
+
+<figure class="two-column">
+  <a>
+    <img src="/gallery/IMG_4489.jpg" alt="Ice castle 1">
+  </a>
+  <a>
+    <img src="/gallery/IMG_4489.jpg" alt="Ice castle 2">
+  </a>
+  <figcaption>Ice castles.</figcaption>
+</figure>
