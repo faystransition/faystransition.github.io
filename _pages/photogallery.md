@@ -6,7 +6,8 @@ author_profile: false
 title: "Photo gallery"
 header:
   overlay_image: /gallery/headerimg.jpg
-excerpt: "Here are some of the great views in my journey, most of which taken with my phone, some with mirrorless camera. Please enjoy!"
+
+excerpt: "Here are some of the great views in my journey, most of which taken with my phone, some with my mirrorless camera. Please enjoy!"
 
 
 
