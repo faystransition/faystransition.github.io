@@ -18,4 +18,7 @@ title: "Ice castle 1"
  title: "Ice castle 1"
 ---
 
+{% include base_path %}
+
+
 {% include gallery %}
