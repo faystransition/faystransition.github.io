@@ -2,6 +2,7 @@
 layout: splash
 permalink: /photogallery/
 hidden: true
+author_profile: true
 header:
   overlay_image: /gallery/headerimg.jpg
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
@@ -9,20 +10,14 @@ excerpt: "Photo gallery."
 
 
 gallery:
-- url: /gallery/IMG_4489.jpg
-   image_path: /images/gallery/IMG_4489.jpg
-   alt: "Ice castle"
-   title: "Ice castle 1"
+  - image_path: /images/gallery/IMG_4489.jpg
+    alt: "Ice castle"
 
-- url: /gallery/IMG_4476.jpg
-  image_path: /gallery/IMG_4476.jpg
-  alt: "Ice castle"
-  title: "Ice castle 1"
+  - image_path: /gallery/IMG_4476.jpg
+    alt: "Ice castle"
 
-- url: /gallery/IMG_4479.jpg
-   image_path: /images/gallery/IMG_4479.jpg
-   alt: "Ice castle"
-   title: "Ice castle 1"
+  - image_path: /images/gallery/IMG_4479.jpg
+    alt: "Ice castle"
 ---
 
 {% include base_path %}
