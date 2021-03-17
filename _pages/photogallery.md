@@ -4,9 +4,10 @@ permalink: /photogallery/
 hidden: true
 author_profile: false
 title: "Photo gallery"
-tagline: "Here are some of the great views in my journey, most of which taken with my phone, some with mirrorless camera. Please enjoy!"
 header:
   overlay_image: /gallery/headerimg.jpg
+excerpt: "Here are some of the great views in my journey, most of which taken with my phone, some with mirrorless camera. Please enjoy!"
+
 
 
 gallery:
@@ -45,6 +46,25 @@ gallery:
 
   - image_path: /gallery/2_1.jpg
     alt: "Antelope canyon"
+
+  - image_path: /gallery/2_4w.jpg
+    alt: "Antelope canyon"
+
+  - image_path: /gallery/IMG_1661.jpg
+    alt: "Yellow stone park"
+
+  - image_path: /gallery/IMG_1944.jpg
+    alt: "Bryce canyon"
+
+  - image_path: /gallery/IMG_0797.jpg
+    alt: "Grand canyon"
+
+  - image_path: /gallery/IMG_6468_2.jpg
+    alt: "Salt lake"
+
+  - image_path: /gallery/IMG_1803.jpg
+    alt: "On the plane"
+
 
 ---
 
