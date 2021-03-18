@@ -82,10 +82,9 @@ feature_row:
 
 &nbsp;&nbsp; See this [page](https://faystransition.github.io/honors).
 
----
-
 <br>
 
+---
 
 # E-learning and certificates
 
