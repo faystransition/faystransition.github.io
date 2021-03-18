@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 <br>
 <b>Evolution of nematic fluctuations in CaK(Fe<sub>1-x</sub>Ni<sub>x</sub>)<sub>4</sub>As<sub>4</sub> with spin-vortex crystal magnetic order </b> <br>
-Anna E. Böhmer, Fei Chen, William R. Meier, et al., <i>arXiv:2011.13207</i>, 2021
+Anna E. Böhmer, Fei Chen, William R. Meier, et al., <i>arXiv:2011.13207</i>, 2020
 
 <b>Effect of Eu doping concentration on fluorescence and magnetic resonance imaging properties of Gd<sub>2</sub>O<sub>3</sub>:Eu<sup>3+</sup> nanoparticles used as dual-modal contrast agent </b><br>
 Huawei Deng, Fei Chen, Chuan Yang, et al., <i>Nanotechnology</i>, 29, 415601, 2018
