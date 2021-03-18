@@ -3,6 +3,26 @@ layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
+
+feature_row:
+  - image_path: /ibm.png
+    alt: "IBM Data Science Professional Certificate"
+    excerpt: "IBM Data Science Professional Certificate/Specialization"
+    url: https://www.coursera.org/account/accomplishments/professional-cert/DXRU9YR9ZMV5
+    btn_label: "View certificate"
+    btn_class: "btn--inverse"
+  - image_path: /datacamp.png
+    alt: "Datacamp"
+    excerpt: "[Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/d1140cb1fedb299441d09994346a337537d126bd) career track, [Machine learning](https://www.datacamp.com/statement-of-accomplishment/track/5d6b3c18ab502bada52ab65b4a61f6040ad84aab), [Deep learning](https://www.datacamp.com/statement-of-accomplishment/track/943f0d0997d35fd0633e45f5f230892cb3a73dc0), [SQL](https://www.datacamp.com/statement-of-accomplishment/track/1bdafa43427d43cddc59938a3669cb69e70536f6) skill tracks"
+    url: https://www.datacamp.com/profile/faystransition
+    btn_label: "View my profile"
+    btn_class: "btn--inverse"
+  - image_path: /ucdavis.png
+    alt: "SQL for Data Science"
+    excerpt: "SQL for Data Science"
+    url: "https://www.coursera.org/account/accomplishments/verify/BGV9CSTFLU78"
+    btn_label: "View certificate"
+    btn_class: "btn--inverse"
 ---
 
 
@@ -14,7 +34,7 @@ author_profile: true
 </a>
 </p>
 
-**Ph.D candidate, University of Minnesota - Twin Cities**
+**Ph.D candidate, University of Minnesota - Twin Cities (UMN)**
 
 - [School of Physics and Astronomy](https://cse.umn.edu/physics), 2016-
 
@@ -33,7 +53,7 @@ author_profile: true
 </p>
 
 
-**B.S., Sun Yat-sen University**
+**B.S., Sun Yat-sen University (SYSU)**
 
 - [School of Physics and Engineering (now School of Physics)](http://spe.sysu.edu.cn/) - National base for talent training in physics, 2011-2015
 
@@ -50,10 +70,20 @@ author_profile: true
 
 **University of Cologne**, exchange program, 2014
 
+- Master program classes: computational many body physics, quantum field theory
+
 **Peking University**, summer school, 2013
 
-**Selected honors and awards**
+# Selected honors and awards
 
+See this [page](https://faystransition.github.io/honors).
 
 
 # E-learning and certificates
+
+
+{% include feature_row %}
+
+Interest and on-going learning:
+
+- Machine learning, deep learning, natural language processing, big data, AI in medicine
