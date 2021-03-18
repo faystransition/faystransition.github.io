@@ -19,7 +19,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /ucdavis.png
     alt: "SQL for Data Science"
-    excerpt: "SQL for Data Science"
+    excerpt: "SQL for Data Science by Sadie St. Lawrence"
     url: "https://www.coursera.org/account/accomplishments/verify/BGV9CSTFLU78"
     btn_label: "View certificate"
     btn_class: "btn--inverse"
@@ -74,9 +74,17 @@ feature_row:
 
 **Peking University**, summer school, 2013
 
+<br>
+
+---
+
 # Selected honors and awards
 
-See this [page](https://faystransition.github.io/honors).
+&nbsp;&nbsp; See this [page](https://faystransition.github.io/honors).
+
+---
+
+<br>
 
 
 # E-learning and certificates
