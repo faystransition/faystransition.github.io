@@ -10,7 +10,7 @@ author_profile: true
 
 <p align="center">
 <a href="https://twin-cities.umn.edu/">
-  <img src="../images/umn.png" alt="University of Minnesota">
+  <img src="../images/umn.png" alt="University of Minnesota", height = 150>
 </a>
 </p>
 
@@ -22,13 +22,16 @@ author_profile: true
 
   - Grad Phi Officer (2017-2018); Women in Physics and Astronomy Officer (2017-2018, 2019-2020)
 
+  - Teaching assistance experience: leading problem-solving based labs and discussions for undergraduate and graduate level courses in various topics: mechanics, electromagnetism, optics, special relativity, thermal and statistical physics, best practices in physics teaching.
 
+  - [Research work](https://faystransition.github.io/research/)
 
 <p align="center">
 <a href="http://www.sysu.edu.cn/en/index.htm">
-  <img src="../images/sysu.png" alt="Sun Yat-sen University">
+  <img src="../images/sysu.png" alt="Sun Yat-sen University", height = 150>
 </a>
 </p>
+
 
 **B.S., Sun Yat-sen University**
 
@@ -42,18 +45,14 @@ author_profile: true
 
   - Typical classes taken: statistical field theory, contemporary semiconductor physics, nonlinear and quantum optics, introduction for group theory, quantum field theory
 
+- [Research work](https://faystransition.github.io/research/)
 
-[**Research work**](https://faystransition.github.io/research/)
+
+**University of Cologne**, exchange program, 2014
+
+**Peking University**, summer school, 2013
 
 **Selected honors and awards**
-
-# More
-
-**University of Cologne** exchange program, 2014
-
-**Peking University** summer school, 2013
-
-
 
 
 
