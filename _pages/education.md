@@ -7,13 +7,12 @@ author_profile: true
 
 
 {% include base_path %}
-<figure>
+
 <p align="center">
 <a href="https://twin-cities.umn.edu/">
   <img src="../images/umn.png" alt="University of Minnesota", hight = 150>
 </a>
 </p>
-</figure>
 
 **Ph.D candidate, University of Minnesota - Twin Cities**
 
@@ -25,13 +24,11 @@ author_profile: true
 
 
 
-<figure>
 <p align="center">
 <a href="http://www.sysu.edu.cn/en/index.htm">
   <img src="../images/sysu.png" alt="Sun Yat-sen University", hight = 150>
 </a>
 </p>
-</figure>
 
 **B.S., Sun Yat-sen University**
 
