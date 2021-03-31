@@ -32,7 +32,7 @@ feature_row:
   - image_path: /home/projects.jpg
     alt: "Blogs"    # "100% free"
     title: "Blogs"
-    excerpt: "Data science, machine learning projects."
+    excerpt: "Machine/deep learning, data science projects."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
