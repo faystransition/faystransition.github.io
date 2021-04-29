@@ -31,7 +31,7 @@ feature_row:
 
   - image_path: /home/projects.jpg
     alt: "Blogs"   
-    title: "Blogs & notes"
+    title: "Blogs & Notes"
     excerpt: "Machine/deep learning, data science blogs."
     url: "/posts/"
     btn_class: "btn--primary"

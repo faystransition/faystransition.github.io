@@ -4,12 +4,12 @@ date: 2021-04-29
 permalink: /posts/2021/04/
 tags:
   - Deep Learning
-  - Neural Network
+  - NN
   - Scratch
 ---
 
 
-<!--  test -->
+
 Here's the equation.
 $$
 \begin{aligned}
