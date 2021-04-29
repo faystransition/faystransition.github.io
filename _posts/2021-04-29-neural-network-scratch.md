@@ -8,16 +8,4 @@ tags:
   - Scratch
 ---
 
-
-
-Here's the equation.
-$$
-\begin{aligned}
-(w \cdot x) + b &= ((w_1 * x_1) + (w_2 * x_2)) + b \\
-&=  WX + b
-\end{aligned}
-$$
-
-$$
-y = f(w \cdot x + b) = \boxed{f(WX+b)}
-$$
+It's on the way.
