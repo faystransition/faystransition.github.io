@@ -9,11 +9,11 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Blog Posts"
+  - title: "Blogs & Notes"
     url: /posts/
 
-  - title: "Learning Notes"
-    url: /learningnotes/
+  # - title: "Learning Notes"
+  #   url: /learningnotes/
 
   - title: "Photo Gallery"
     url: /photogallery/

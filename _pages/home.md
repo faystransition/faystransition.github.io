@@ -14,7 +14,7 @@ excerpt: >
 
 feature_row:
   - image_path: /home/edu.jpg
-    alt: "Education"   # "customizable"
+    alt: "Education"   
     title: "Education"
     excerpt: "Education background and self-learning."
     url: "/education/"
@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Learn more"
 
   - image_path: /home/research.jpg
-    alt: "Research"   # "fully responsive"
+    alt: "Research"   
     title: "Research"
     excerpt: "Theoretical and experimental research."
     url: "/research/"
@@ -30,9 +30,9 @@ feature_row:
     btn_label: "Learn more"
 
   - image_path: /home/projects.jpg
-    alt: "Blogs"    # "100% free"
-    title: "Blogs"
-    excerpt: "Machine/deep learning, data science projects."
+    alt: "Blogs"   
+    title: "Blogs & notes"
+    excerpt: "Machine/deep learning, data science blogs."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
