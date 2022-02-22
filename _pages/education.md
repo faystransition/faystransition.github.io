@@ -13,15 +13,33 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /datacamp.png
     alt: "Datacamp"
-    excerpt: "[Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/d1140cb1fedb299441d09994346a337537d126bd) career track, [Machine learning](https://www.datacamp.com/statement-of-accomplishment/track/5d6b3c18ab502bada52ab65b4a61f6040ad84aab), [Deep learning](https://www.datacamp.com/statement-of-accomplishment/track/943f0d0997d35fd0633e45f5f230892cb3a73dc0), [SQL](https://www.datacamp.com/statement-of-accomplishment/track/1bdafa43427d43cddc59938a3669cb69e70536f6) skill tracks"
+    excerpt: "[Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d1140cb1fedb299441d09994346a337537d126bd) career track, [SQL](https://www.datacamp.com/statement-of-accomplishment/track/1bdafa43427d43cddc59938a3669cb69e70536f6) skill track"
     url: https://www.datacamp.com/profile/faystransition
     btn_label: "View my profile"
     btn_class: "btn--inverse"
   - image_path: /ucdavis.png
     alt: "SQL for Data Science"
     excerpt: "SQL for Data Science by Sadie St. Lawrence"
-    url: "https://www.coursera.org/account/accomplishments/verify/BGV9CSTFLU78"
+    url: https://www.coursera.org/account/accomplishments/verify/BGV9CSTFLU78
     btn_label: "View certificate"
+    btn_class: "btn--inverse"
+  - image_path: /datacamp.png
+    alt: "Datacamp"
+    excerpt: "[Machine learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/5d6b3c18ab502bada52ab65b4a61f6040ad84aab) career track, [Deep learning](https://www.datacamp.com/statement-of-accomplishment/track/943f0d0997d35fd0633e45f5f230892cb3a73dc0) skill track"
+    url: https://www.datacamp.com/profile/faystransition
+    btn_label: "View my profile"
+    btn_class: "btn--inverse"
+  - imaga_path: /dl.png
+    alt: "Deep Learning Specialization"
+    excerpt: "Deep Learning Specialization by DeepLearning.AI"
+    url: https://www.coursera.org/account/accomplishments/specialization/certificate/R5EVKG4TVG2F
+    btn_label: "View certificate"
+    btn_class: "btn--inverse"
+  - image_path: /gcpsummer.png
+    alt: "Google Cloud Higher Education Summer Challenge"
+    excerpt: "Google Cloud Higher Education Summer Challenge with [Coursera Specialization](https://www.coursera.org/account/accomplishments/specialization/HMHX8NB2N4AA)  and Qwiklabs badges"
+    url: https://www.qwiklabs.com/public_profiles/314df981-4756-4647-bece-48f0d5d6981f
+    btn_label: "View my badges"
     btn_class: "btn--inverse"
 ---
 
@@ -91,6 +109,4 @@ feature_row:
 
 {% include feature_row %}
 
-Interest and on-going learning:
-
-- Machine learning, deep learning, natural language processing, big data, AI in medicine
+Learning as a life long journey continues!

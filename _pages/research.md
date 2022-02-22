@@ -19,14 +19,21 @@ On the other hand, when I was an undergraduate, I worked on experimental condens
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=d9p2778AAAAJ&hl=en) profile.
 
 <br>
+<b> Survey of relation extraction techniques using hybrid classical and state of the art methods </b> <br>
+Onur Kara, Fei Chen, Daniel Hug, et al., <i>Proceedings of the BioCreative VII Challenge Evaluation Workshop</i> 7, 358
+
+
+<b>Phenomenological model of the third-harmonic magnetic response due to superconducting fluctuations: Application to Sr<sub>2</sub>RuO<sub>4</sub> </b> <br>
+Fei Chen, Damjan Pelc, Martin Greven, and Rafael M. Fernandes, <i> Phys. Rev. B </i> 104, 064502, 2021
+
 <b>Evolution of nematic fluctuations in CaK(Fe<sub>1-x</sub>Ni<sub>x</sub>)<sub>4</sub>As<sub>4</sub> with spin-vortex crystal magnetic order </b> <br>
 Anna E. Böhmer, Fei Chen, William R. Meier, et al., <i>arXiv:2011.13207</i>, 2020
 
 <b>Effect of Eu doping concentration on fluorescence and magnetic resonance imaging properties of Gd<sub>2</sub>O<sub>3</sub>:Eu<sup>3+</sup> nanoparticles used as dual-modal contrast agent </b><br>
-Huawei Deng, Fei Chen, Chuan Yang, et al., <i>Nanotechnology</i>, 29, 415601, 2018
+Huawei Deng, Fei Chen, Chuan Yang, et al., <i>Nanotechnology</i> 29, 415601, 2018
 
 <b>Terbium-doped gadolinium oxide nanoparticles prepared by laser ablation in liquid for use as fluorescence and magnetic resonance imaging dual-modal contrast agents </b> <br>
-Fei Chen, Min Chen , Chuan Yang, et al., <i> Phys Chem Chem Phys </i>, 17(2):1189-96, 2015
+Fei Chen, Min Chen , Chuan Yang, et al., <i> Phys Chem Chem Phys </i> 17(2):1189-96, 2015
 
 <b>Preparation method for fluorescence and magnetic resonance imaging dual-modal nanoprobe</b><br>
 Dihu Chen, Fei Chen, Jun Liu, patent number: CN104857532A, 2015
