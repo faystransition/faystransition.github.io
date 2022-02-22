@@ -29,7 +29,7 @@ feature_row:
     url: https://www.datacamp.com/profile/faystransition
     btn_label: "View my profile"
     btn_class: "btn--inverse"
-  - imaga_path: /dl.png
+  - image_path: /dl.png
     alt: "Deep Learning Specialization"
     excerpt: "Deep Learning Specialization by DeepLearning.AI"
     url: https://www.coursera.org/account/accomplishments/specialization/certificate/R5EVKG4TVG2F
