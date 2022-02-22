@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Blogs & Notes"
-    url: /posts/
+  - title: "Projects"
+    url: https://github.com/faystransition
 
   - title: "Photo Gallery"
     url: /photogallery/

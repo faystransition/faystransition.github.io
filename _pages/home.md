@@ -31,9 +31,9 @@ feature_row:
 
   - image_path: /home/projects.jpg
     alt: "Blogs"   
-    title: "Blogs & Notes"
-    excerpt: "Machine/deep learning, data science blogs."
-    url: "/posts/"
+    title: "Projects"
+    excerpt: "Machine learning, data science and more."
+    url: https://github.com/faystransition
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
