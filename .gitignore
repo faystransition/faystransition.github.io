@@ -1,2 +1,15 @@
 _site/
+_posts/
 
+.DS_Store
+
+#notebooks
+*.nb
+*.lyx
+
+
+# Executables
+*.exe
+*.out
+*.app
+*.x
