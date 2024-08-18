@@ -52,13 +52,13 @@ feature_row:
 </a>
 </p>
 
-**Ph.D candidate, University of Minnesota - Twin Cities (UMN)**
+**Ph.D in Physics, University of Minnesota - Twin Cities (UMN)**
 
-- [School of Physics and Astronomy](https://cse.umn.edu/physics), 2016-
+- [School of Physics and Astronomy](https://cse.umn.edu/physics), 2016 - 2022
 
   - Typical classes taken: classical physics, quantum mechanics, solid state physics, advanced quantum physics, advanced topics in condensed matter, mathematical methods in physics, etc.
 
-  - Grad Phi Officer (2017-2018); Women in Physics and Astronomy Officer (2017-2018, 2019-2020)
+  - Grad Phi Officer (2017 - 2018); Women in Physics and Astronomy Officer (2017 - 2018, 2019 - 2020)
 
   - Teaching assistance experience: leading problem-solving based labs and discussions for undergraduate and graduate level courses in various topics: mechanics, electromagnetism, optics, special relativity, thermal and statistical physics, best practices in physics teaching.
 
@@ -71,13 +71,13 @@ feature_row:
 </p>
 
 
-**B.S., Sun Yat-sen University (SYSU)**
+**B.S. in Physics, Sun Yat-sen University (SYSU)**
 
-- [School of Physics and Engineering (now School of Physics)](http://spe.sysu.edu.cn/) - National base for talent training in physics, 2011-2015
+- [School of Physics and Engineering (now School of Physics)](http://spe.sysu.edu.cn/) - National base for talent training in physics, 2011 - 2015
 
   - Typical classes taken: advanced mathematics, linear algebra, probability and statistics, mechanics, thermodynamics, optics, quantum mechanics, electrodynamics, atomic physics, methods of mathematical physics, advanced algorithms, circuits and electronics
 
-- [Yat-sen School](http://yss.sysu.edu.cn/) - Training program for top students in basic sciences，2012-2015
+- [Yat-sen School](http://yss.sysu.edu.cn/) - Training program for top students in basic sciences，2012 - 2015
 
 - SYSU - ENS (Ecole Normale Superieure) program - International theoretical physics class, 2013-2014
 
